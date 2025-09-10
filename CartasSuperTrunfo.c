@@ -3,11 +3,13 @@
 int main() {
     // Declaração de variáveis
     char estado1[20], cidade1[20], cod1[10];
-    int populacao1, pontosturi1;
+    unsigned long int populacao1;
+    int pontosturi1;
     float area1, pib1;
 
     char estado2[20], cidade2[20], cod2[10];
-    int populacao2, pontosturi2;
+    unsigned long int populacao2;
+    int pontosturi2;
     float area2, pib2;
 
     // Entrada de Dados
